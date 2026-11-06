@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://aw1kswinton.github.io/Cait-GPT-Records/sitemap.xml
+Sitemap: https://caitgpt.github.io/Cait-GPT-Records/sitemap.xml

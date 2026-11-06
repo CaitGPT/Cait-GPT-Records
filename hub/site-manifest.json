@@ -3,43 +3,43 @@
   "files": [
     {
       "file": "index.html",
-      "bytes": 15092,
-      "sha256": "a483cac5c7d97ba538a585a2924719cc228b599f073e871c420e35e19e7def69"
+      "bytes": 15096,
+      "sha256": "7663c339bf86e4aafa2cce24f6a27f364bb35e1f0af191c3e3a8caaaff818aff"
     },
     {
       "file": "story.html",
-      "bytes": 17481,
-      "sha256": "33f1ca96ed1b864938c2bcccee4a9b6878be68032b3c3e54ed44d3db558a5191"
+      "bytes": 17494,
+      "sha256": "89cdf89e6217b8f2650e7d4983d92a0c2bd27c54179a393fde6798f317a0360b"
     },
     {
       "file": "cases.html",
-      "bytes": 14856,
-      "sha256": "2fb2f9540c148015a06ae2c7c9035e027d6f17692ba7e5898fd1cf09e9444647"
+      "bytes": 14865,
+      "sha256": "479274d9b690da874eefcea3e8c050b9cdbe34ece8f78b585186665c66ea3c1d"
     },
     {
       "file": "case-nene-lanes.html",
       "bytes": 15637,
-      "sha256": "3d62a938be8251a72c6c0c007390e92900e507044017775d7a2aaa9e8c111d22"
+      "sha256": "92e498091f439d8d6b2f7fb2fd6649d2f5d6f4adc92f5870651b7d9dee0b8ed8"
     },
     {
       "file": "case-biff-rematch.html",
       "bytes": 15189,
-      "sha256": "d009b87ae5dd7d03ac2fbe9b125c0c74665148ce042bef972d83d5b67820dcae"
+      "sha256": "60b77b457f04f3afc3208deb434a26cb82d9e63f7b8c217eb62800e64740f9f4"
     },
     {
       "file": "get-started.html",
-      "bytes": 14351,
-      "sha256": "8c6b26cf2e34e7d83bbca51e4407f1fee8920783a2d052583993b383e2d74f98"
+      "bytes": 14331,
+      "sha256": "b7deb0a1a9be3ecd28500de73150f80f313ce5d3cacffb0354f8badc63af0f82"
     },
     {
       "file": "methodology.html",
-      "bytes": 13907,
-      "sha256": "227e2bb6a56336025cb4a37b4d689139ec72c420f90c53bfd6695d9c423d4d0f"
+      "bytes": 13911,
+      "sha256": "94b4971c5d14f66ddbfdb0025cc06401db7af164484917f12088d17cd710c0ea"
     },
     {
       "file": "updates.html",
-      "bytes": 12851,
-      "sha256": "9a798aad603971a1c359d3bff2fb2e915a5ec41a00bd518024b2f6a3b8be4f91"
+      "bytes": 12855,
+      "sha256": "5329717e7f0429d061857a192d730b72112f6c8fbaeef1ca7623ad401d1dfc71"
     },
     {
       "file": "story-history.json",

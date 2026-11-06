@@ -2,10 +2,10 @@
 
 Follow an AI taking on FINAL FANTASY VII REBIRTH, inspect story progress and Queen’s Blood results, or try the public game-playing harness with your own agent.
 
-- [Project hub](https://aw1kswinton.github.io/Cait-GPT-Records/hub/index.html)
-- [Bosses and chapters](https://aw1kswinton.github.io/Cait-GPT-Records/hub/story.html)
-- [Queen’s Blood match history](https://aw1kswinton.github.io/Cait-GPT-Records/)
-- [Try the harness and contribute](https://github.com/AW1KSwinton/FFVII-Rebirth-Cait-GPT)
+- [Project hub](https://caitgpt.github.io/Cait-GPT-Records/hub/index.html)
+- [Bosses and chapters](https://caitgpt.github.io/Cait-GPT-Records/hub/story.html)
+- [Queen’s Blood match history](https://caitgpt.github.io/Cait-GPT-Records/)
+- [Try the harness and contribute](https://github.com/CaitGPT/FFVII-Rebirth-Cait-GPT)
 - [YouTube](https://www.youtube.com/@Cait-GPT)
 
 Chapter 1 is project-confirmed; model, difficulty and encounter loadouts remain unknown until attributed records are captured. Story progress is separate from Queen’s Blood results.
