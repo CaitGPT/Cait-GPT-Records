@@ -3,43 +3,43 @@
   "files": [
     {
       "file": "index.html",
-      "bytes": 15096,
-      "sha256": "7663c339bf86e4aafa2cce24f6a27f364bb35e1f0af191c3e3a8caaaff818aff"
+      "bytes": 15076,
+      "sha256": "039fe403ba2ab0127fd1403db7c39914d4ac7382dd0336dbedb260f9618b7df3"
     },
     {
       "file": "story.html",
-      "bytes": 17494,
-      "sha256": "89cdf89e6217b8f2650e7d4983d92a0c2bd27c54179a393fde6798f317a0360b"
+      "bytes": 17465,
+      "sha256": "a17a79a0852fb665e54915692e69521fba4e43d5c2d71e5fec8bb5fd68f6522f"
     },
     {
       "file": "cases.html",
-      "bytes": 14865,
-      "sha256": "479274d9b690da874eefcea3e8c050b9cdbe34ece8f78b585186665c66ea3c1d"
+      "bytes": 14840,
+      "sha256": "aae7436cb262642719aee2911047e433120144c045d7cc352d2f477cd31fa6e1"
     },
     {
       "file": "case-nene-lanes.html",
-      "bytes": 15637,
-      "sha256": "92e498091f439d8d6b2f7fb2fd6649d2f5d6f4adc92f5870651b7d9dee0b8ed8"
+      "bytes": 15617,
+      "sha256": "6613bb8dea13b99665eb4ae819b1d8b1a05b4d4e36fdb60a08211487901549a0"
     },
     {
       "file": "case-biff-rematch.html",
-      "bytes": 15189,
-      "sha256": "60b77b457f04f3afc3208deb434a26cb82d9e63f7b8c217eb62800e64740f9f4"
+      "bytes": 15169,
+      "sha256": "8a9aae3d421369e43cf4fd2af5c0f2c70a9d09a3f1982662ea59f4b6bb1b65db"
     },
     {
       "file": "get-started.html",
-      "bytes": 14331,
-      "sha256": "b7deb0a1a9be3ecd28500de73150f80f313ce5d3cacffb0354f8badc63af0f82"
+      "bytes": 14311,
+      "sha256": "201fb59e6fc7db4e2749122630a0f7ead54e6480f1af7e9e41a2acbcabc84cf7"
     },
     {
       "file": "methodology.html",
-      "bytes": 13911,
-      "sha256": "94b4971c5d14f66ddbfdb0025cc06401db7af164484917f12088d17cd710c0ea"
+      "bytes": 13891,
+      "sha256": "99bc7aa4c67a32bda582533edf2226f898559d70168428ef2407010ebf93858e"
     },
     {
       "file": "updates.html",
-      "bytes": 12855,
-      "sha256": "5329717e7f0429d061857a192d730b72112f6c8fbaeef1ca7623ad401d1dfc71"
+      "bytes": 12835,
+      "sha256": "95a2da0ca606f119e2a47814e8f21fc7c677e9bb5c38e5934737bc5e8f1611a5"
     },
     {
       "file": "story-history.json",
