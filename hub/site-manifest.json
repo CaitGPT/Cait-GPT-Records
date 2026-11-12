@@ -3,8 +3,8 @@
   "files": [
     {
       "file": "index.html",
-      "bytes": 16230,
-      "sha256": "eca5f5df7f9fd5cae114181ad1d05a6f1e004188ce9a9b7de228144b224484db"
+      "bytes": 16767,
+      "sha256": "3f3d8265e1684ed02eaaa5de732f90be12559a6b4d4436aa328352199412b387"
     },
     {
       "file": "story.html",
@@ -28,8 +28,8 @@
     },
     {
       "file": "get-started.html",
-      "bytes": 13683,
-      "sha256": "6e820808b810b8553eee823e43436ea00e578dfe1c82cd26decac380d4c1e27b"
+      "bytes": 14173,
+      "sha256": "132e581a8cad0b14fe25e506434c7f96a46ffb1d74665be147608c90765d25f2"
     },
     {
       "file": "methodology.html",
